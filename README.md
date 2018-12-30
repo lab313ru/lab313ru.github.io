@@ -6,4 +6,4 @@ My blog: articles, some short notes, etc.
 
 2. 0x100 word must be 'SE';
 
-3. 
+3. ![](crc2.png)
